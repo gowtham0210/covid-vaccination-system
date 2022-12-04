@@ -1,0 +1,47 @@
+/* Menu css */
+.nb{
+    background-color: #007C7C;
+    
+}
+.formcont{
+    height: 0px auto;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+body{
+    background-color: #EBFFF4;
+}
+
+
+/* form */
+.sec2{
+    padding-top: 5%;
+}
+
+.header_portal{
+    text-align: center;
+    padding-top: 15%;
+}
+/* footer */
+.footer{
+    background-color: #007C7C;
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+    margin-top:30px;
+ 
+    }
+#title{
+        color: #007C7C;
+}
+.f1{
+        padding-left: 200px;
+}
+.f2{
+        margin-top: 25px;
+        padding-left: 200px;
+}
+.f3{
+        background-color: #015158;
+}

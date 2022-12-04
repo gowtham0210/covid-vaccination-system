@@ -1,0 +1,38 @@
+ivlborkqgszbinpf
+
+
+
+<!-- <?php 
+ $error = "";
+ if(isset($_POST['email'])){
+  $email = $_POST['email'];
+  if($email == ""){
+    $error .= "Enter Email Address";
+
+ }else{
+  $conn = new mysqli("localhost","root",'',"benificary_details");
+  $res = mysqli_query($conn,"SELECT * FROM  benificary_details_1 where email_id = '$email'");
+  $count = mysqli_num_rows($res);
+  if($count >0){
+  echo "valid";
+  }else{
+    echo "Invalid";
+  }
+
+ }
+
+}else{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+?> -->
